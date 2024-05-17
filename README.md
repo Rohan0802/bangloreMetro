@@ -107,6 +107,4 @@ Feel free to fork this project, make improvements, and submit a pull request. Fo
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
----
 
-This README provides an overview of the project, its features, classes, methods, usage instructions, and an example of how to interact with the system. Feel free to modify it to suit your project's specific needs.
